@@ -1,0 +1,7 @@
+E:\Application Development\NashTech\NashTech\bin\Debug\NashTech.exe.config
+E:\Application Development\NashTech\NashTech\bin\Debug\NashTech.exe
+E:\Application Development\NashTech\NashTech\bin\Debug\NashTech.pdb
+E:\Application Development\NashTech\NashTech\obj\Debug\NashTech.csprojAssemblyReference.cache
+E:\Application Development\NashTech\NashTech\obj\Debug\NashTech.csproj.CoreCompileInputs.cache
+E:\Application Development\NashTech\NashTech\obj\Debug\NashTech.exe
+E:\Application Development\NashTech\NashTech\obj\Debug\NashTech.pdb
