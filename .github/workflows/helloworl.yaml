@@ -1,0 +1,15 @@
+# chay khi nao khi nao chay
+name: hello world
+# ds cac job chay trong workflows
+on: 
+  # chay workflows khi ai do push code vao branch
+  push:
+    branches: [student]
+jobs:
+  say-hello:
+    # chay tren nen tang nao
+    runs-on: ubuntu-latest
+    # chay nhung buoc nao
+    steps:
+      - name: datbeo
+      - run: echo Hello-world
